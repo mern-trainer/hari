@@ -20,3 +20,5 @@ git checkout <branch-name> -> switch to branch
 git switch <branch-name> -> switch to branch
 
 git merge <branch-name> -> merge branch into current branch
+
+edited
